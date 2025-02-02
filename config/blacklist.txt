@@ -24,3 +24,5 @@ careryun.com
 goo.bkpcp.top
 api.olelive.com
 olelive.com
+php.jdshipin.com
+jdshipin.com
