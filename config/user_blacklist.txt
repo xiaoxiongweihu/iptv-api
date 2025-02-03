@@ -1,0 +1,28 @@
+# 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
+# This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+epg.pw
+skype.serv00.net
+serv00.net
+iptv.yjxfz.com
+yjxfz.com
+live-hls-web-ajb.getaj.net
+getaj.net
+live.goodiptv.club
+goodiptv.club
+hc73k3dhwo5gfkt.wcetv.com
+wcetv.com
+stream1.freetv.fun
+freetv.fun
+zw9999.cnstream.top
+cnstream.top
+zsntlqj.xicp.net
+xicp.net
+z.b.bkpcp.top
+bkpcp.top
+tvpull.careryun.com
+careryun.com
+goo.bkpcp.top
+api.olelive.com
+olelive.com
+php.jdshipin.com
+jdshipin.com
