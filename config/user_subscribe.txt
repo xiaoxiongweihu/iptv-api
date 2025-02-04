@@ -14,5 +14,8 @@ https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://testingcf.jsdelivr.net/gh/wwb521/live@main/tv.m3u
+https://testingcf.jsdelivr.net/gh/zeee-u/lzh06@main/tv.txt
 http://alist.941520.xyz:5244/d/%E5%9C%A8%E7%BA%BF%E7%BD%91%E7%9B%98/IPTV/iptv0202.m3u8?sign=CQ0pK3HtG7r1xEGqsXjTX3xaUfWWvvUlLfsFPGS44eg=:0
