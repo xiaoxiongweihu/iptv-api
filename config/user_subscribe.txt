@@ -53,3 +53,5 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/IPTV_FREE/zb.txt
 https://raw.githubusercontent.com/whpsky/IPTV/main/CHINATV.txt
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
