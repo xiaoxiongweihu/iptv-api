@@ -17,3 +17,4 @@ https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u
 http://124.71.189.194/zb.txt
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/live.txt
