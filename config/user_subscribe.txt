@@ -24,6 +24,8 @@ https://cnb.cool/junchao.tang/llive/-/git/raw/main/野火959.txt
 
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
+https://raw.githubusercontent.com/whpsky/IPTV/main/CHINATV.txt
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
@@ -40,6 +42,8 @@ https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
 https://raw.githubusercontent.com/alantang1977/pg/refs/heads/main/live.txt
+https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/IPTV_FREE/zb.txt
 https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/清风.m3u8
 https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/myiptv.txt
 https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt
@@ -50,8 +54,5 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/oo.txt
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 
-https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
-https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/IPTV_FREE/zb.txt
-https://raw.githubusercontent.com/whpsky/IPTV/main/CHINATV.txt
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+
+
