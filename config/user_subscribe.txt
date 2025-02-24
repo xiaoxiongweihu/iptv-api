@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
@@ -47,3 +48,7 @@ https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/oo.txt
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+
+https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/IPTV_FREE/zb.txt
+https://raw.githubusercontent.com/whpsky/IPTV/main/CHINATV.txt
