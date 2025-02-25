@@ -6,6 +6,8 @@ http://124.71.189.194/zb.txt
 http://47.120.41.246:8899/zb.txt
 https://live.iptv365.org/live.m3u
 https://m3u.ibert.me/txt/o_cn.txt
+https://live.zbds.top/tv/iptv4.txt
+https://live.zbds.top/tv/iptv6.txt
 http://pl10000.infinityfreeapp.com
 https://live.zbds.top/tv/iptv6.txt
 https://live.zbds.top/tv/iptv4.txt
