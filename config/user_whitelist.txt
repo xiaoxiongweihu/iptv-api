@@ -31,11 +31,11 @@ CCTV-5,http://gslbserv.itv.cmvideo.cn/5000000010000016619/index.m3u8?channel-id=
 CCTV-5,http://gslbserv.itv.cmvideo.cn/1000000005000265005/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
 CCTV-5,http://gslbserv.itv.cmvideo.cn/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
 CCTV-5,http://gslbserv.itv.cmvideo.cn/6000000001000016431/index.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
-CCTV5+,http://gslbserv.itv.cmvideo.cn/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
-CCTV5+,http://gslbserv.itv.cmvideo.cn/1000000005000265016/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
-CCTV5+,http://gslbserv.itv.cmvideo.cn/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
-CCTV5+,http://gslbserv.itv.cmvideo.cn/6000000001000015875/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
-CCTV5+,http://gslbserv.itv.cmvideo.cn/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
+CCTV-5+,http://gslbserv.itv.cmvideo.cn/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
+CCTV-5+,http://gslbserv.itv.cmvideo.cn/1000000005000265016/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
+CCTV-5+,http://gslbserv.itv.cmvideo.cn/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
+CCTV-5+,http://gslbserv.itv.cmvideo.cn/6000000001000015875/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
+CCTV-5+,http://gslbserv.itv.cmvideo.cn/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
 CCTV-6,http://gslbserv.itv.cmvideo.cn/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
 CCTV-6,http://gslbserv.itv.cmvideo.cn/5000000010000018433/index.m3u8?channel-id=bestzb&Contentid=5000000010000018433&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
 CCTV-6,http://gslbserv.itv.cmvideo.cn/1000000005000265006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
