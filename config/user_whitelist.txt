@@ -1,10 +1,6 @@
 # 这是接口或订阅源的白名单，白名单内的接口或订阅源获取的接口将不会参与测速，优先排序至结果最前。
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 
-湖北综合,https://live21-cjy.hbtv.com.cn/new-hbtv/new-hbzh.m3u8?auth_key=1740878064-7d0bf740f6ff11efaa290f4618283131-0-8701db78bfd8cf9b821c366c488b68b5&extrakey=Vrvn0rVQWNHx8fcS2yVxW1XIQKAe8SJxjybXSSQudbAxXodbBiXYOeqvvQA_Raau6xH0JE1wy6L-KcUxANYOka74b4IAHo3um-NT4cFZVCc&aalook=19252aa70cc929a0
-湖北经视,https://live21-cjy.hbtv.com.cn/new-hbtv/new-hbjs.m3u8?auth_key=1740878166-b9e5bf60f6ff11efbb80479c50d66fd3-0-1b69d211ad1e9d0069ad920c5b7c40d5&extrakey=Z020NWyALEb5bPWP_amvc4J2pbY9yMZhkfRkHDTXWEAMnvj1p4mzQbp1OmSTXDUEWxnladg6CLKNy24hISv1zDlWAILfVrdrnUop8mE4blo&aalook=dd2a23772eacbe54
-湖北影视,https://live21-cjy.hbtv.com.cn/new-hbtv/new-hbys.m3u8?auth_key=1740878241-e6530350f6ff11efac90a37c852096fb-0-c3e5c76f472a247ce4e43a9016000ca3&extrakey=gZ8bZK3ErA2nYAaGz9vTlHWip_SDWngvdKi-Sd2-sBQ_oS1Z6_OoQBSXwG_WCL-fQsiWmOaOxmnM2rFocZlYXdv7l4uoWGvNvUa41-FXWT8&aalook=5704b44e05bf59fb
-
 CCTV-1,http://gslbserv.itv.cmvideo.cn/reallive-hdcctv1/index.m3u8?channel-id=ystenlive&Contentid=reallive-hdcctv1&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
 CCTV-1,http://gslbserv.itv.cmvideo.cn/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
 CCTV-1,http://gslbserv.itv.cmvideo.cn/5000000010000030810/index.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
