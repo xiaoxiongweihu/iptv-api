@@ -14,6 +14,7 @@ http://pl10000.infinityfreeapp.com
 https://live.zbds.top/tv/iptv6.txt
 https://live.zbds.top/tv/iptv4.txt
 https://m3u.ibert.me/txt/j_iptv.txt
+http://123.113.106.17:8888/iptv.m3u
 http://175.178.251.183:6689/live.txt
 https://m3u.ibert.me/txt/fmml_dv6.txt
 https://7337.kstore.space/twkj/tvzb.txt
