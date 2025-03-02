@@ -10,6 +10,15 @@ CCTV-14,http://58.55.29.89:808/hls/14/index.m3u8
 CCTV-15,http://58.55.29.89:808/hls/15/index.m3u8
 北京卫视,http://58.55.29.89:808/hls/55/index.m3u8
 湖北影视,http://58.55.29.89:808/hls/68/index.m3u8
+CCTV-1,http://58.55.56.90:808/hls/1/index.m3u8
+CCTV-3,http://58.55.56.90:808/hls/1202/index.m3u8
+CCTV-5,http://58.55.56.90:808/hls/1205/index.m3u8
+CCTV-6,http://58.55.56.90:808/hls/1206/index.m3u8
+CCTV-8,http://58.55.56.90:808/hls/1208/index.m3u8
+CCTV-14,http://58.55.56.90:808/hls/14/index.m3u8
+CCTV-15,http://58.55.56.90:808/hls/15/index.m3u8
+北京卫视,http://58.55.56.90:808/hls/55/index.m3u8
+湖北影视,http://58.55.56.90:808/hls/68/index.m3u8
 
 CCTV-1,http://113.57.109.36:9901/tsfile/live/0001_1.m3u8
 CCTV-2,http://113.57.109.36:9901/tsfile/live/0002_1.m3u8
