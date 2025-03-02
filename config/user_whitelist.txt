@@ -1,6 +1,17 @@
 # 这是接口或订阅源的白名单，白名单内的接口或订阅源获取的接口将不会参与测速，优先排序至结果最前。
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 
+湖北卫视,http://113.57.109.36:9901/tsfile/live/1013_1.m3u8?key=txiptv
+湖北综合,http://113.57.109.36:9901/tsfile/live/1014_1.m3u8?key=txiptv
+湖北经视,http://113.57.109.36:9901/tsfile/live/1015_1.m3u8?key=txiptv
+湖北垄上,http://113.57.109.36:9901/tsfile/live/1016_1.m3u8?key=txiptv
+湖北公共,http://113.57.109.36:9901/tsfile/live/1017_1.m3u8?key=txiptv
+武汉一台,http://113.57.109.36:9901/tsfile/live/1018_1.m3u8?key=txiptv
+武汉二台,http://113.57.109.36:9901/tsfile/live/1019_1.m3u8?key=txiptv
+武汉三台,http://113.57.109.36:9901/tsfile/live/1020_1.m3u8?key=txiptv
+武汉四台,http://113.57.109.36:9901/tsfile/live/1021_1.m3u8?key=txiptv
+武汉五台,http://113.57.109.36:9901/tsfile/live/1022_1.m3u8?key=txiptv
+
 CCTV-1,http://gslbserv.itv.cmvideo.cn/reallive-hdcctv1/index.m3u8?channel-id=ystenlive&Contentid=reallive-hdcctv1&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
 CCTV-1,http://gslbserv.itv.cmvideo.cn/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
 CCTV-1,http://gslbserv.itv.cmvideo.cn/5000000010000030810/index.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
