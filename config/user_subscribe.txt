@@ -1,8 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://tv.zc.cx/tv.m3u
-https://tv.zc.cx/itv.m3u
 http://8.138.7.223/live.txt
 http://124.71.189.194/zb.txt
 http://neego.sbs:8888/iptv.txt
