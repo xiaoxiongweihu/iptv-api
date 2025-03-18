@@ -260,7 +260,7 @@ CCTV-17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/
 山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 山东卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000004134/index.m3u8?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=3
 山东卫视,http://[2409:8087:74d8:21::18]/270000001128/9900000527/index.m3u8?
-山东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225738/2/index.m3u8
+山东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225484/index.m3u8?fmt=ts2hls
 辽宁卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226488/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0dsu8dOBmGQQO7fSrvySew%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN4l9PIxeExdzsncIMJiPZb%2CEND
 辽宁卫视,https://公众号-潇雨萌萌.tv12.xyz/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
 辽宁卫视,https://公众号潇雨萌萌.tv12.xyz/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
@@ -348,7 +348,7 @@ CCTV-17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/
 重庆卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226551/index.m3u8
 重庆卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000025797/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=3
 重庆卫视,http://[2409:8087:74d8:21::18]/270000001128/9900000517/index.m3u8?
-重庆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225734/2/index.m3u8
+重庆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225612/index.m3u8?fmt=ts2hls
 重庆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw515363787_-1448315831/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1674380630&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 重庆卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
 东南卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkZUfG47p98m2PZiCsgkhyQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5EcQIH6BiwZavlhPLb4oJ%2CEND
@@ -453,4 +453,4 @@ CCTV-17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/
 兵团卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227168/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
 🕘️更新时间,#genre#
-2025-03-18 18:29:48,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
+2025-03-19 06:27:36,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
