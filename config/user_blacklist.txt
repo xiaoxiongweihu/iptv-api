@@ -31,3 +31,4 @@ yangshipin.cn
 hangfun.top
 chinamobile.com
 li0580.top
+php.jdshipin.com
