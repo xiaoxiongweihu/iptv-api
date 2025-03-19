@@ -4,6 +4,7 @@
 http://d28.tv1288.xyz
 https://tv.zc.cx/tv.m3u
 https://tv.zc.cx/itv.m3u
+https://tv.zc.cx/四川.m3u
 http://124.71.189.194/zb.txt
 http://neego.sbs:8888/iptv.txt
 http://neego.sbs:8888/iptv.m3u
