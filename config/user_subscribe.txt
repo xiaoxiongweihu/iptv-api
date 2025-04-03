@@ -5,12 +5,12 @@ http://d28.tv1288.xyz
 https://tv.zc.cx/tv.m3u
 https://tv.zc.cx/itv.m3u
 https://tv.zc.cx/四川.m3u
-http://124.71.189.194/zb.txt
 http://neego.sbs:8888/iptv.txt
 http://neego.sbs:8888/iptv.m3u
 http://neego.sbs:8888/iptv6.txt
 http://neego.sbs:8888/iptv4.txt
 http://47.120.41.246:8899/zb.txt
+
 https://live.iptv365.org/live.m3u
 https://m3u.ibert.me/txt/o_cn.txt
 https://live.zbds.top/tv/iptv4.txt
