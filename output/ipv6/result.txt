@@ -403,7 +403,7 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/inde
 陕西卫视,http://[2409:8087:74d2:21::6]:80/000000001000PLTV/88888888/224/3221226444/index.m3u8
 青海卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226529/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ege4qzvU2ax15UdL3NFQ7AQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNdiWnhjH1amCOGECUhABr9%2CEND
 青海卫视,https://公众号-潇雨萌萌.tv12.xyz/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
-青海卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225727/2/index.m3u8
+青海卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225484/index.m3u8?fmt=ts2hls
 青海卫视,https://video.mytvsuper.xyz/live/6f2c123c181c312247bf5b295f2584d9ec511dd950f8aba5299f209f673dc826.m3u8?token=825716213141897
 青海卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
 青海卫视,http://[2409:8087:74d8:21::18]/270000001128/9900000042/index.m3u8?
@@ -453,4 +453,4 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/inde
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 
 🕘️更新时间,#genre#
-2025-04-15 18:29:07,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
+2025-04-16 13:44:05,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
