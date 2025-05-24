@@ -452,4 +452,4 @@ CCTV-17,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/0000000100000006000000000000
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701_fhd.m3u8
 
 🕘️更新时间,#genre#
-2025-05-24 06:22:04,http://goo.bkpcp.top/mg/cctv1
+2025-05-24 18:21:21,http://goo.bkpcp.top/mg/cctv1
