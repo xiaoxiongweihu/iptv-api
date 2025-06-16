@@ -167,6 +167,7 @@ CCTV-16,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/
 CCTV-16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 CCTV-16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/index.m3u8
 CCTV-16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8
+CCTV-16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016
 CCTV-16,http://goo.bkpcp.top/mg/cctv16
 CCTV-17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8
 CCTV-17,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8
@@ -365,7 +366,7 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3
 山西卫视,http://[2409:8087:74d8:21::18]/270000001128/9900000053/index.m3u8
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746292937&key=8097fcc15ecf55c37b8908da7be2be63
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746307365&key=3eeaa00e3276abf097ceb1bb753ca265
-山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1750012419&key=7fb3b144003ac290fd5dc57c626c7f5e
+山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1750099057&key=7d31c9a32f7f389ddb038ba794cb4a8f
 山西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
 山西卫视,http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8
 吉林卫视,http://219.140.135.17:8887/rtp/239.69.1.212:10914
@@ -392,7 +393,7 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3
 陕西卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040017/index.m3u8
 陕西卫视,http://[2409:8087:74d8:21::18]/270000001128/9900000026/index.m3u8
 陕西卫视,http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
-陕西卫视,https://migu.188766.xyz/?migutoken=c900ac24c10857fea0450e5c939090f7&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
+陕西卫视,https://migu.188766.xyz/?migutoken=9265f5791a60311beacd428ae4afeea3&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 陕西卫视,http://bailudz.top:1236/111/hahahaha.php?id=sxws
 陕西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
 青海卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8
@@ -447,4 +448,4 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 
 🕘️更新时间,#genre#
-2025-06-16 18:24:32,https://live.tvfix.org/live/cctv1hd/index.m3u8
+2025-06-17 06:22:39,https://live.tvfix.org/live/cctv1hd/index.m3u8
