@@ -365,7 +365,8 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3
 山西卫视,http://[2409:8087:74d8:21::18]/270000001128/9900000053/index.m3u8
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746292937&key=8097fcc15ecf55c37b8908da7be2be63
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746307365&key=3eeaa00e3276abf097ceb1bb753ca265
-山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1750181181&key=ba8cf652265d756327f09c56200c7987
+山西卫视,http://tv.cqshushu.ggff.net:2086/jzb.php?id=shanxws&公众号【医工学习日志】
+山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1750267599&key=8adcd9bcf396e5780f706b1aa1e3df6d
 山西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
 山西卫视,http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8
 吉林卫视,http://219.140.135.17:8887/rtp/239.69.1.212:10914
@@ -446,4 +447,4 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 
 🕘️更新时间,#genre#
-2025-06-18 18:21:40,https://live.tvfix.org/live/cctv1hd/index.m3u8
+2025-06-19 06:19:41,https://live.tvfix.org/live/cctv1hd/index.m3u8
