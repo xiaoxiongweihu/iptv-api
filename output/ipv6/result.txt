@@ -149,11 +149,11 @@ CCTV-14,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVS
 CCTV-14,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
 CCTV-14,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000378/index.m3u8
 CCTV-14,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/index.m3u8
-CCTV-15,http://[2409:8087:1a01:df::4033]:80/TVOD/88888888/224/3221226127/main.m3u8
 CCTV-15,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8
 CCTV-15,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031109/index.m3u8
 CCTV-15,http://[2409:8087:74d8:21::18]/270000001128/9900000512/index.m3u8
 CCTV-15,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/index.m3u8
+CCTV-15,http://[2409:8087:1a01:df::4033]:80/TVOD/88888888/224/3221226127/main.m3u8
 CCTV-15,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Tdo%2FUL80msfbhDYvoWpNl31Dy7jHvMl%2FzVUrNxhL1ek1YEGVDZ7lCg0LtKJY4Ku%2B8
 CCTV-15,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8
 CCTV-15,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
@@ -168,7 +168,7 @@ CCTV-16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3
 CCTV-16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/index.m3u8
 CCTV-16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8
 CCTV-16,http://rustdesk.szsun.xyz:8088/udp/239.77.0.165:5146
-CCTV-16,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
+CCTV-16,https://migu.188766.xyz/?migutoken=c9089d0a55f3d3d49ef1e129b60e4965&id=CCTV16&pp=1
 CCTV-17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8
 CCTV-17,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8
 CCTV-17,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8
@@ -283,11 +283,11 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3
 四川卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225835/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 贵州卫视,http://219.140.135.17:8887/rtp/239.69.1.150:10536
 贵州卫视,http://27.17.246.227:8118/rtp/239.69.1.150:10536
-贵州卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8
 贵州卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8
 贵州卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000003169/index.m3u8
 贵州卫视,http://[2409:8087:74d8:21::18]/270000001128/9900000036/index.m3u8
 贵州卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225728/2/index.m3u8
+贵州卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8
 贵州卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228136/index.m3u8
 贵州卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8
 贵州卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225483/2/index.m3u8
@@ -367,7 +367,7 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746292937&key=8097fcc15ecf55c37b8908da7be2be63
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746307365&key=3eeaa00e3276abf097ceb1bb753ca265
 山西卫视,https://live.catvod.com/catvod.php?id=sxiws
-山西卫视,https://migu.188766.xyz/?migutoken=6df157431e73f49a03b1e768748c6078&id=yifa-sxxws&type=dy
+山西卫视,https://migu.188766.xyz/?migutoken=f67b6548a6530eb13b5293ba192a05d5&id=yifa-sxxws&type=dy
 山西卫视,http://live.catvod.com/catvod.php?id=sxiws
 山西卫视,https://hls-gateway.vpstv.net/streams/708874.m3u8
 山西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
@@ -396,7 +396,7 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3
 陕西卫视,http://[2409:8087:74d8:21::18]/270000001128/9900000026/index.m3u8
 陕西卫视,https://live.catvod.com/catvod.php?id=sxws
 陕西卫视,http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
-陕西卫视,https://migu.188766.xyz/?migutoken=c8bf2072baf0ac0d31aac6b6861227e6&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
+陕西卫视,https://migu.188766.xyz/?migutoken=2e4cfd283b3dcb20d5093177a87ba547&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 陕西卫视,http://live.catvod.com/catvod.php?id=sxws
 陕西卫视,https://hls-gateway.vpstv.net/streams/708826.m3u8
 陕西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
@@ -452,4 +452,4 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 
 🕘️更新时间,#genre#
-2025-07-21 18:22:45,https://live.tvfix.org/live/cctv1hd/index.m3u8
+2025-07-22 06:20:33,https://live.tvfix.org/live/cctv1hd/index.m3u8
