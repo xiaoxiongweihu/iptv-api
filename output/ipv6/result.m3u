@@ -732,7 +732,7 @@ https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746307365&key=3eeaa00e3276abf09
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
 https://live.catvod.com/catvod.php?id=sxiws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
-https://migu.188766.xyz/?migutoken=39a8cc1e8f53014d1432039926933881&id=sxws&type=dy
+https://migu.188766.xyz/?migutoken=f40e495bcea21d47c9d45a569842f53b&id=sxws&type=dy
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://live.catvod.com/catvod.php?id=sxiws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
@@ -792,7 +792,7 @@ https://live.catvod.com/catvod.php?id=sxws
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
-https://migu.188766.xyz/?migutoken=8e7b4065bb1f50d586c80d1304ed96cf&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
+https://migu.188766.xyz/?migutoken=d1e6ab99aa4893790a2b11cd7ba556c9&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://tv123.top:35455/mgtv/738910838.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
@@ -899,5 +899,5 @@ http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701_fhd.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="📡卫视频道",兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-26 18:20:05
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-27 06:18:23
 https://live.tvfix.org/live/cctv1hd/index.m3u8
