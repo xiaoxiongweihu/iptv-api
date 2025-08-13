@@ -366,7 +366,7 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/inde
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746292937&key=8097fcc15ecf55c37b8908da7be2be63
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746307365&key=3eeaa00e3276abf097ceb1bb753ca265
 山西卫视,https://mursor.ottiptv.cc/bst/shanxiws@1300000.m3u8
-山西卫视,https://migu.188766.xyz/?migutoken=f5ffec4cea8b373db2a1c3fe5757bf81&id=sxws&type=dy
+山西卫视,https://migu.188766.xyz/?migutoken=bdb2bf9a9506fff60602b6ab518f8d0d&id=sxws&type=dy
 山西卫视,http://live.catvod.com/catvod.php?id=sxiws
 山西卫视,https://hls-gateway.vpstv.net/streams/708874.m3u8
 山西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
@@ -398,9 +398,9 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/inde
 陕西卫视,https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=229d3c2e1fc7e8b67679b7c31211f7a448bb28514bd412c345428b812f7717cb513297895a7a8304d2269c49accd49a986df0b8e788c0900c333504feddafadc109f1dd6c613dbcbe84424ae30
 陕西卫视,https://mursor.ottiptv.cc/bst/sxws@1300000.m3u8
 陕西卫视,https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=b18b7af5ea9c07f9b3ee4a4c318dd0ca1975e8ba491dd0e7df1b812b1c13478e830ec1d628611b0d5d737740984133d19d80e5a7dec0a2656a58507154562e48c31c60a52983df261f5bf862b6
-陕西卫视,https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=4cccf8d4f414405c1fa97d06c623c842d006ec4f861b7d142084a36ced767a8e18d11bd20be188a81b20e741f76847d0f70bbdb39c07effdf4c9ce2ab1228564a740e2c31d72a8b552a43b9077
+陕西卫视,https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=600799951db2fbe824e1a952de1e6e51063da74881a4e71a0bd1ae903c16b3dd18d90af63d0cf048ec9582e0ea143166cdd29c5cbe5cc125333a284add5f8752a34b3c3aecf5048c49aa19a160
 陕西卫视,https://mursor.ottiptv.cc/mcp/shanxiws.m3u8
-陕西卫视,https://migu.188766.xyz/?migutoken=65d115bd9bc76a86527a2b91b543103d&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+陕西卫视,https://migu.188766.xyz/?migutoken=9aafc435759965a288b37c018b1dd132&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 青海卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000013359/index.m3u8
 青海卫视,http://[2409:8087:74d8:21::18]/270000001128/9900000042/index.m3u8
 青海卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225727/2/index.m3u8
@@ -453,4 +453,4 @@ CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/inde
 兵团卫视,https://mursor.ottiptv.cc/bst/btws@1300000.m3u8
 
 🕘️更新时间,#genre#
-2025-08-13 18:23:38,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8
+2025-08-14 06:17:57,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8
