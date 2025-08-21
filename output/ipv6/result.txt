@@ -452,4 +452,4 @@ CCTV-17,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/0000000100000006000000000000
 兵团卫视,http://n1.gzbody.com:85/rtp/239.77.0.77:5146
 
 🕘️更新时间,#genre#
-2025-08-21 06:16:35,http://goo.bkpcp.top/mg/cctv1
+2025-08-21 18:18:37,http://goo.bkpcp.top/mg/cctv1
