@@ -369,8 +369,8 @@ CCTV-17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/
 山西卫视,https://mursor.ottiptv.cc/bst/shanxiws@1300000.m3u8
 山西卫视,https://migu.188766.xyz/?migutoken=45b7880d463bd7c35e6f6e66482e40f9&id=sxws&type=dy
 山西卫视,https://hls-gateway.vpstv.net/streams/708874.m3u8
-山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
 山西卫视,https://migu.188766.xyz/?migutoken=e07338b353ed3fccf978e65460e7caad&id=sxws&type=dy
+山西卫视,http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8
 吉林卫视,http://219.140.135.17:8887/rtp/239.69.1.212:10914
 吉林卫视,http://27.17.246.227:8118/rtp/239.69.1.212:10914
 吉林卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000027730/index.m3u8
@@ -394,13 +394,13 @@ CCTV-17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/
 陕西卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040017/index.m3u8
 陕西卫视,http://[2409:8087:74d8:21::18]/270000001128/9900000026/index.m3u8
 陕西卫视,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010113/1.m3u8
-陕西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
 陕西卫视,https://migu.188766.xyz/?migutoken=10c796b9a6319d64719c78ea4d04cffa&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 陕西卫视,http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
 陕西卫视,https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=229d3c2e1fc7e8b67679b7c31211f7a448bb28514bd412c345428b812f7717cb513297895a7a8304d2269c49accd49a986df0b8e788c0900c333504feddafadc109f1dd6c613dbcbe84424ae30
 陕西卫视,https://mursor.ottiptv.cc/bst/sxws@1300000.m3u8
 陕西卫视,https://h5live.gslb.cmvideo.cn/migu/kailu/shan3xiws/50/20220809/index.m3u8?msisdn=20250825030028752edadf5a0545ab97b93909f44873bf&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20250825030028&Channel_ID=0131_200300220100002&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=106.13.250.89&SecurityKey=20250825030028&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&conFee=0&puData=242828ba8c07dda347a038f58948a5a7&ddCalcu=72a4z52ya8x82w489b8a58fc80370dad7a43&sv=10000&ct=www
 陕西卫视,https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=b18b7af5ea9c07f9b3ee4a4c318dd0ca1975e8ba491dd0e7df1b812b1c13478e830ec1d628611b0d5d737740984133d19d80e5a7dec0a2656a58507154562e48c31c60a52983df261f5bf862b6
+陕西卫视,https://mursor.ottiptv.cc/mcp/shanxiws.m3u8
 青海卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000013359/index.m3u8
 青海卫视,http://[2409:8087:74d8:21::18]/270000001128/9900000042/index.m3u8
 青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
@@ -453,4 +453,4 @@ CCTV-17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/
 兵团卫视,http://n1.gzbody.com:85/rtp/239.77.0.77:5146
 
 🕘️更新时间,#genre#
-2025-08-26 06:17:44,http://goo.bkpcp.top/mg/cctv1
+2025-08-26 18:19:31,http://goo.bkpcp.top/mg/cctv1
