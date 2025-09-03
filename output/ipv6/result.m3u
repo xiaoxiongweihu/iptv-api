@@ -784,6 +784,8 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040017/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://[2409:8087:74d8:21::18]/270000001128/9900000026/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=229d3c2e1fc7e8b67679b7c31211f7a448bb28514bd412c345428b812f7717cb513297895a7a8304d2269c49accd49a986df0b8e788c0900c333504feddafadc109f1dd6c613dbcbe84424ae30
@@ -797,8 +799,6 @@ https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=b18b7af5ea9c07f9b3ee4a4c
 https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=891e226337a4070fac3121aa8fa4c3a62f607205b1a9be3198ae6e6f32aea5dd122d94250eca433e4478421684570a1106113d32a8110b3b2199b59bda8efbd847af65fa908631b13c1f21519c
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 https://mursor.ottiptv.cc/mcp/shanxiws.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
-https://migu.188766.xyz/?migutoken=8469abc0d5aa6ccb99469a494c116046&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000013359/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
@@ -899,5 +899,5 @@ http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701_fhd.m3u8
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="📡卫视频道",兵团卫视
 http://n1.gzbody.com:85/rtp/239.77.0.77:5146
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-03 06:16:02
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-03 18:17:55
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8
