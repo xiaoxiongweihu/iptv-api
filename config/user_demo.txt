@@ -14,8 +14,6 @@ CCTV-12
 CCTV-13
 CCTV-14
 CCTV-15
-CCTV-16
-CCTV-17
 
 📡卫视频道,#genre#
 湖北卫视
