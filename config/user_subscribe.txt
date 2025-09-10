@@ -1,6 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://fy.188766.xyz/?url=http://mursor.ottiptv.cc
+
 http://d28.tv1288.xyz
 https://tv.zc.cx/tv.m3u
 https://tv.zc.cx/itv.m3u
