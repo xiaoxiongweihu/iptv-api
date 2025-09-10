@@ -2,6 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://fy.188766.xyz/?url=http://mursor.ottiptv.cc
+https://raw.githubusercontent.com/mursor1985/LIVE/main/iptv.m3u
 
 http://d28.tv1288.xyz
 https://tv.zc.cx/tv.m3u
