@@ -16,7 +16,7 @@ Name: CCTV-2, URL: http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/index.m3
 Name: CCTV-2, URL: http://110.181.237.251:9901/tsfile/live/0002_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2, URL: http://118.77.155.9:9901/tsfile/live/0002_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2, URL: http://183.186.89.126:8899/tsfile/live/0002_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-2, URL: http://171.113.216.147:4022/rtp/239.69.1.102:10250, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 832 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://171.113.216.147:4022/rtp/239.69.1.102:10250, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1074 ms, Speed: 0.21 M/s, Resolution: 1920x1080
 Name: CCTV-3, URL: http://59.173.174.118:9901/tsfile/live/0003_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: http://120.202.94.181:9446/tsfile/live/0003_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: http://58.46.214.3:9901/tsfile/live/0003_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -47,7 +47,6 @@ Name: CCTV-5, URL: http://118.77.155.9:9901/tsfile/live/0016_1.m3u8, From: white
 Name: CCTV-5, URL: http://118.77.155.9:9901/tsfile/live/0005_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://183.186.89.126:8899/tsfile/live/0005_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://183.186.89.126:8899/tsfile/live/1000_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://171.113.216.147:4022/rtp/239.69.1.123:10376, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1368 ms, Speed: 0.05 M/s, Resolution: 1920x1080
 Name: CCTV-6, URL: http://59.173.174.118:9901/tsfile/live/0006_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: http://120.202.94.181:9446/tsfile/live/0006_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: http://58.46.214.3:9901/tsfile/live/0006_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -57,7 +56,7 @@ Name: CCTV-6, URL: http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226148/index.m3
 Name: CCTV-6, URL: http://110.181.237.251:9901/tsfile/live/0006_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: http://118.77.155.9:9901/tsfile/live/0006_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: http://183.186.89.126:8899/tsfile/live/0006_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-6, URL: http://171.113.216.147:4022/rtp/239.69.1.124:10382, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1279 ms, Speed: 0.48 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://171.113.216.147:4022/rtp/239.69.1.124:10382, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 636 ms, Speed: 0.37 M/s, Resolution: 1920x1080
 Name: CCTV-7, URL: http://59.173.174.118:9901/tsfile/live/0007_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: http://120.202.94.181:9446/tsfile/live/0007_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-7, URL: http://58.46.214.3:9901/tsfile/live/0007_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -76,7 +75,6 @@ Name: CCTV-8, URL: http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/index.m3
 Name: CCTV-8, URL: http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225736/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8, URL: http://118.77.155.9:9901/tsfile/live/0008_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-8, URL: http://183.186.89.126:8899/tsfile/live/0008_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-8, URL: http://171.113.216.147:4022/rtp/239.69.1.125:10388, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1030 ms, Speed: 0.12 M/s, Resolution: 1920x1080
 Name: CCTV-9, URL: http://59.173.174.118:9901/tsfile/live/0009_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9, URL: http://120.202.94.181:9446/tsfile/live/0009_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-9, URL: http://58.46.214.3:9901/tsfile/live/0009_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
