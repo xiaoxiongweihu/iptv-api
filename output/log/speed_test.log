@@ -1,6 +1,6 @@
-Name: CCTV-15, URL: http://171.113.210.156:4022/rtp/239.69.1.155:10566, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 496 ms, Speed: 0.93 M/s, Resolution: 1920x1080
-Name: CCTV-9, URL: http://59.173.120.39:4022/rtp/239.69.1.104:10262, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 408 ms, Speed: 0.08 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://171.113.210.156:4022/rtp/239.69.1.122:10370, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1020 ms, Speed: 0.81 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://171.113.210.156:4022/rtp/239.69.1.138:10466, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 530 ms, Speed: 0.76 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://59.173.120.39:4022/rtp/239.69.1.122:10370, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 403 ms, Speed: 0.21 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://171.113.210.156:4022/rtp/239.69.1.123:10376, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 907 ms, Speed: 0.87 M/s, Resolution: 1920x1080
+Name: CCTV-15, URL: http://171.113.210.156:4022/rtp/239.69.1.155:10566, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1537 ms, Speed: 0.74 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://171.113.210.156:4022/rtp/239.69.1.138:10466, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 669 ms, Speed: 0.84 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://171.113.210.156:4022/rtp/239.69.1.122:10370, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1528 ms, Speed: 0.69 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://171.113.210.156:4022/rtp/239.69.1.123:10376, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 902 ms, Speed: 0.94 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://59.173.120.39:4022/rtp/239.69.1.122:10370, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 547 ms, Speed: 0.04 M/s, Resolution: 1920x1080
+Name: CCTV-9, URL: http://59.173.120.39:4022/rtp/239.69.1.104:10262, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 677 ms, Speed: 0.13 M/s, Resolution: 1920x1080
