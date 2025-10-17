@@ -103,7 +103,7 @@ Name: CCTV-4, URL: http://183.185.254.203:9999/tsfile/live/0004_1.m3u8?key=txipt
 Name: CCTV-4, URL: http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4, URL: http://112.27.235.94:8000/hls/4/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-4, URL: http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226124/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://171.113.210.156:4022/rtp/239.69.1.138:10466, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1242 ms, Speed: 0.91 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://171.113.210.156:4022/rtp/239.69.1.138:10466, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1611 ms, Speed: 0.86 M/s, Resolution: 1920x1080
 Name: CCTV-5, URL: http://114.104.140.89:8686/rtp/238.1.78.171:7240, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://180.120.2.79:8888/rtp/239.49.9.32:6000, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://180.120.2.79:8888/rtp/239.49.1.5:6000, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -138,7 +138,6 @@ Name: CCTV-5, URL: http://58.243.224.242:9999/tsfile/live/1003_1.m3u8, From: whi
 Name: CCTV-5, URL: http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://112.27.235.94:8000/hls/5/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225734/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://171.113.210.156:4022/rtp/239.69.1.123:10376, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1293 ms, Speed: 0.89 M/s, Resolution: 1920x1080
 Name: CCTV-6, URL: http://114.104.140.89:8686/rtp/238.1.78.172:7248, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: http://180.120.2.79:8888/rtp/239.49.9.33:6000, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: http://180.120.2.79:8888/rtp/239.49.1.6:6000, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -390,7 +389,7 @@ Name: CCTV-15, URL: http://183.186.89.126:8899/tsfile/live/0015_1.m3u8, From: wh
 Name: CCTV-15, URL: http://58.243.224.242:9999/tsfile/live/1013_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15, URL: http://112.27.235.94:8000/hls/16/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-15, URL: http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226147/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-15, URL: http://171.113.210.156:4022/rtp/239.69.1.155:10566, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1216 ms, Speed: 0.92 M/s, Resolution: 1920x1080
+Name: CCTV-15, URL: http://171.113.210.156:4022/rtp/239.69.1.155:10566, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 770 ms, Speed: 0.96 M/s, Resolution: 1920x1080
 Name: 湖北卫视, URL: http://114.104.140.89:8686/rtp/238.1.78.168:7216, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 湖北卫视, URL: http://183.191.33.0:8001/rtp/226.0.2.49:8304, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 湖北卫视, URL: http://180.120.2.79:8888/rtp/239.49.1.48:6000, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
