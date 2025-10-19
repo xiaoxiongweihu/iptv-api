@@ -1,6 +1,5 @@
-Name: CCTV-4, URL: http://171.113.210.156:4022/rtp/239.69.1.232:11034, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://58.48.104.134:4022/rtp/239.254.96.96:8550, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 439 ms, Speed: 0.06 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://58.48.104.134:4022/rtp/239.254.96.141:8920, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 440 ms, Speed: 0.07 M/s, Resolution: 1920x1080
-Name: 海南卫视, URL: http://58.48.104.134:4022/rtp/239.69.1.151:10542, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 498 ms, Speed: 0.12 M/s, Resolution: 1920x1080
-Name: 广东卫视, URL: http://58.48.104.134:4022/rtp/239.254.96.140:8914, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 498 ms, Speed: 0.07 M/s, Resolution: None
-Name: CCTV-4, URL: http://58.48.104.134:4022/rtp/239.69.1.232:11034, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 509 ms, Speed: 0.06 M/s, Resolution: None
+Name: 海南卫视, URL: http://58.48.104.134:4022/rtp/239.69.1.151:10542, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 461 ms, Speed: 0.05 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://58.48.104.134:4022/rtp/239.254.96.96:8550, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 425 ms, Speed: 0.11 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://58.48.104.134:4022/rtp/239.254.96.141:8920, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 459 ms, Speed: 0.05 M/s, Resolution: 1920x1080
+Name: 广东卫视, URL: http://58.48.104.134:4022/rtp/239.254.96.140:8914, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 414 ms, Speed: 0.05 M/s, Resolution: None
+Name: CCTV-4, URL: http://58.48.104.134:4022/rtp/239.69.1.232:11034, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 454 ms, Speed: 0.08 M/s, Resolution: None
