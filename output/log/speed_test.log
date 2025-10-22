@@ -1,3 +1,3 @@
-Name: CCTV-1, URL: http://58.48.104.134:4022/rtp/239.254.96.96:8550, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 408 ms, Speed: 0.11 M/s, Resolution: 1920x1080
-Name: 广东卫视, URL: http://58.48.104.134:4022/rtp/239.254.96.140:8914, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 443 ms, Speed: 0.04 M/s, Resolution: 1920x1080
-Name: 北京卫视, URL: http://58.48.104.134:4022/rtp/239.254.96.141:8920, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 439 ms, Speed: 0.09 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://58.48.104.134:4022/rtp/239.254.96.96:8550, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 423 ms, Speed: 0.03 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: http://58.48.104.134:4022/rtp/239.254.96.141:8920, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 454 ms, Speed: 0.11 M/s, Resolution: 1920x1080
+Name: 广东卫视, URL: http://58.48.104.134:4022/rtp/239.254.96.140:8914, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 455 ms, Speed: 0.08 M/s, Resolution: 1920x1080
