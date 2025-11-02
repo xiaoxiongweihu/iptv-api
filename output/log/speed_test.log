@@ -1,6 +1,6 @@
-Name: CCTV-4, URL: http://171.113.210.116:4022/rtp/239.69.1.138:10466, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://171.113.210.116:4022/rtp/239.69.1.122:10370, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1108 ms, Speed: 0.91 M/s, Resolution: 1920x1080
-Name: 湖北卫视, URL: http://171.113.210.116:4022/rtp/239.254.96.115:8664, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1004 ms, Speed: 0.92 M/s, Resolution: 1920x1080
-Name: 黑龙江卫视, URL: http://171.113.210.116:4022/rtp/239.254.96.138:8902, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 968 ms, Speed: 0.94 M/s, Resolution: 1920x1080
-Name: 贵州卫视, URL: http://171.113.210.116:4022/rtp/239.69.1.150:10536, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1015 ms, Speed: 0.93 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://59.173.120.39:4022/rtp/239.254.96.234:9484, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 476 ms, Speed: 0.03 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://171.113.210.116:4022/rtp/239.69.1.231:11028, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 贵州卫视, URL: http://171.113.210.116:4022/rtp/239.69.1.150:10536, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1445 ms, Speed: 0.73 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://171.113.210.116:4022/rtp/239.69.1.122:10370, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1378 ms, Speed: 0.87 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://59.173.120.39:4022/rtp/239.254.96.234:9484, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 575 ms, Speed: 0.01 M/s, Resolution: 1920x1080
+Name: 湖北卫视, URL: http://171.113.210.116:4022/rtp/239.254.96.115:8664, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 661 ms, Speed: 0.80 M/s, Resolution: 1920x1080
+Name: 黑龙江卫视, URL: http://171.113.210.116:4022/rtp/239.254.96.138:8902, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 577 ms, Speed: 0.83 M/s, Resolution: 1920x1080
