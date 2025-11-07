@@ -130,7 +130,7 @@ Name: CCTV-5, URL: https://tv6.blcu6.edu.cn/liverespath/3f76badfb3a23d95f26ff573
 Name: CCTV-5, URL: http://58.243.224.242:9999/tsfile/live/1003_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: http://112.27.235.94:8000/hls/5/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://59.173.120.39:4022/rtp/239.254.96.234:9484, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 499 ms, Speed: 0.03 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://59.173.120.39:4022/rtp/239.254.96.234:9484, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 510 ms, Speed: 0.03 M/s, Resolution: 1920x1080
 Name: CCTV-6, URL: http://114.104.140.89:8686/rtp/238.1.78.172:7248, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: http://180.120.2.79:8888/rtp/239.49.9.33:6000, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-6, URL: http://180.120.2.79:8888/rtp/239.49.1.6:6000, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
