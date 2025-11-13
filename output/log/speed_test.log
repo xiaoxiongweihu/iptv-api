@@ -1,1 +1,3 @@
-Name: CCTV-5, URL: http://59.173.120.39:4022/rtp/239.254.96.234:9484, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 525 ms, Speed: 0.04 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://59.173.120.39:4022/rtp/239.254.96.234:9484, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 537 ms, Speed: 0.05 M/s, Resolution: 1920x1080
+Name: 黑龙江卫视, URL: http://219.139.228.112:8989/rtp/239.254.96.138:8902, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 天津卫视, URL: http://121.60.58.124:19999/rtp/239.69.1.68:10048, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
