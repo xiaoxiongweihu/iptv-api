@@ -1,6 +1,5 @@
-Name: CCTV-6, URL: http://171.113.214.167:4022/rtp/239.69.1.124:10382, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 深圳卫视, URL: http://171.113.214.167:4022/rtp/239.254.96.137:8896, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1325 ms, Speed: 0.92 M/s, Resolution: 1920x1080
-Name: 河南卫视, URL: http://171.113.214.167:4022/rtp/239.69.1.168:10644, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1271 ms, Speed: 0.91 M/s, Resolution: 1920x1080
-Name: CCTV-7, URL: http://171.113.214.167:4022/rtp/239.69.1.103:10256, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1189 ms, Speed: 0.92 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://171.113.214.167:4022/rtp/239.69.1.102:10250, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1000 ms, Speed: 0.94 M/s, Resolution: 1920x1080
-Name: CCTV-8, URL: http://171.113.214.167:4022/rtp/239.69.1.125:10388, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1287 ms, Speed: 0.90 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://171.113.214.167:4022/rtp/239.69.1.102:10250, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1208 ms, Speed: 0.69 M/s, Resolution: 1920x1080
+Name: CCTV-7, URL: http://171.113.214.167:4022/rtp/239.69.1.103:10256, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1182 ms, Speed: 0.92 M/s, Resolution: 1920x1080
+Name: CCTV-8, URL: http://171.113.214.167:4022/rtp/239.69.1.125:10388, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 716 ms, Speed: 0.89 M/s, Resolution: 1920x1080
+Name: 深圳卫视, URL: http://171.113.214.167:4022/rtp/239.254.96.137:8896, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1168 ms, Speed: 0.72 M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://171.113.214.167:4022/rtp/239.69.1.168:10644, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 856 ms, Speed: 0.84 M/s, Resolution: 1920x1080
