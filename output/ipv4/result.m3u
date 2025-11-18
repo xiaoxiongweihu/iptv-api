@@ -825,5 +825,5 @@ http://36.135.118.195:85/tsfile/live/0115_1.m3u8
 http://110.178.211.205:9003/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="📡卫视频道",兵团卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226111/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-18 06:16:22
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-18 18:20:13
 http://114.104.140.89:8686/rtp/238.1.78.166:7200
