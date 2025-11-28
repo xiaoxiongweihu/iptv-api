@@ -447,7 +447,6 @@ Name: 江苏卫视, URL: http://120.202.94.181:9446/tsfile/live/0127_1.m3u8?key=
 Name: 江苏卫视, URL: http://iptv.huuc.edu.cn/hls/jshd.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 江苏卫视, URL: http://112.27.235.94:8000/hls/32/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 江苏卫视, URL: http://120.202.94.181:9446/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 江苏卫视, URL: http://tnvcn.com:8012/rtp/239.3.1.135:8028, From: subscribe, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 507 ms, Speed: 0.44 M/s, Resolution: None
 Name: 安徽卫视, URL: http://114.104.140.89:8686/rtp/238.1.79.27:4328, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 安徽卫视, URL: http://114.104.140.89:8686/rtp/238.1.78.150:7072, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 安徽卫视, URL: http://183.191.33.0:8001/rtp/226.0.2.37:8208, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -646,7 +645,6 @@ Name: 贵州卫视, URL: http://218.92.37.174:9901/tsfile/live/0120_1.m3u8, From
 Name: 贵州卫视, URL: http://118.77.155.9:9901/tsfile/live/0126_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 贵州卫视, URL: https://tv6.blcu6.edu.cn/liverespath/13bb78db05fa12d2f4f29abd39c010cadbd4ab48/0154ec317d-0-0-c335f77312f4edfa18b27ea1125a123c/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 贵州卫视, URL: http://112.27.235.94:8000/hls/46/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 贵州卫视, URL: http://tnvcn.com:8012/rtp/239.3.1.149:8076, From: subscribe, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 5573 ms, Speed: 0.47 M/s, Resolution: None
 Name: 河北卫视, URL: http://114.104.140.89:8686/rtp/238.1.78.245:7832, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 河北卫视, URL: http://183.191.33.0:8001/rtp/226.0.2.65:8432, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 河北卫视, URL: http://180.120.2.79:8888/rtp/239.49.1.236:6000, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -735,7 +733,6 @@ Name: 广东卫视, URL: http://120.202.94.181:9446/tsfile/live/0125_1.m3u8?key=
 Name: 广东卫视, URL: http://iptv.huuc.edu.cn/hls/gdhd.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东卫视, URL: http://112.27.235.94:8000/hls/30/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东卫视, URL: http://120.202.94.181:9446/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 广东卫视, URL: http://tnvcn.com:8012/rtp/239.3.1.142:8048, From: subscribe, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 513 ms, Speed: 0.28 M/s, Resolution: None
 Name: 云南卫视, URL: http://114.104.140.89:8686/rtp/238.1.78.89:6584, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 云南卫视, URL: http://183.191.33.0:8001/rtp/226.0.2.60:8392, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 云南卫视, URL: http://180.120.2.79:8888/rtp/239.49.1.235:6000, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -882,7 +879,6 @@ Name: 青海卫视, URL: http://110.178.211.205:9003/hls/40/index.m3u8, From: wh
 Name: 青海卫视, URL: http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226105/index.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 青海卫视, URL: http://59.173.174.118:9901/tsfile/live/0140_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 青海卫视, URL: http://183.186.89.126:8899/tsfile/live/0140_1.m3u8, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 青海卫视, URL: http://tnvcn.com:8012/rtp/239.3.1.44:8184, From: subscribe, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: 5538 ms, Speed: 0.16 M/s, Resolution: None
 Name: 宁夏卫视, URL: http://114.104.140.89:8686/rtp/238.1.78.109:6744, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 宁夏卫视, URL: http://183.191.33.0:8001/rtp/226.0.2.64:8424, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 宁夏卫视, URL: http://180.120.2.79:8888/rtp/239.49.1.237:6000, From: whitelist, IPv_Type: None, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
