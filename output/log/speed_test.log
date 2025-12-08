@@ -1,4 +1,4 @@
-Name: CCTV-4, URL: http://171.113.212.67:4022/rtp/239.69.1.232:11034, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1451 ms, Speed: 0.90 M/s, Resolution: 1920x1080
-Name: 天津卫视, URL: http://171.113.212.67:4022/rtp/239.69.1.68:10048, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 833 ms, Speed: 0.95 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://171.113.212.67:4022/rtp/239.69.1.123:10376, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 845 ms, Speed: 0.91 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: http://171.113.212.67:4022/rtp/239.69.1.105:10268, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1417 ms, Speed: 0.89 M/s, Resolution: 1920x1080
+Name: 天津卫视, URL: http://171.113.212.67:4022/rtp/239.69.1.68:10048, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1172 ms, Speed: 0.90 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://171.113.212.67:4022/rtp/239.69.1.232:11034, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 884 ms, Speed: 0.95 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://171.113.212.67:4022/rtp/239.69.1.123:10376, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1266 ms, Speed: 0.80 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: http://171.113.212.67:4022/rtp/239.69.1.105:10268, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1041 ms, Speed: 0.93 M/s, Resolution: 1920x1080
